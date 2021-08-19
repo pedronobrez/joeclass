@@ -1,0 +1,595 @@
+﻿JOURNEY 01
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ACTIONS
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+
+1. I
+
+
+2. You
+
+
+3. To want
+
+
+4. To work
+
+
+5. To speak
+
+
+6. To study
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ACTIONS LRS
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+
+1. I want.
+
+
+2. I work.
+
+
+3. I speak.
+
+
+4. I study.
+
+
+5. To want.
+
+
+6. To speak.
+
+
+7. To work.
+
+
+8. To study.
+
+
+9. I want to speak.
+
+
+10. I want to work.
+
+
+11. I want to study.
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+ACTIONS QUESTIONS
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+
+1. I want to work. And you, do you want to work?
+
+
+2. I speak. And you, do you speak?
+
+
+3. I want to speak. And you, do you want to speak?
+
+
+4. I study. And you, do you study?
+
+
+5. I want to study. And you, do you want to study?
+
+
+6. I speak, do you speak?
+
+
+7. I study, do you study?
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+WORDS
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+
+1. Now
+
+
+2. Today
+
+
+3. Tomorrow
+
+
+4. English
+
+
+5. Portuguese
+
+
+6. Spanish
+
+
+7. With
+
+
+8. My
+
+
+9. And
+
+
+10. Family
+
+
+11. Father
+
+
+12. Mother
+
+
+13. Sister
+
+
+14. Brother
+
+
+15. Friend
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+WORDS LSR
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+
+1. I want to work/ speak/ study.
+
+
+2. I speak Portuguese/ English/ Spanish.
+
+
+3. I want to work/ speak/ study today.
+
+
+4. I want to speak/ work/ study now.
+
+
+5. I want to speak/ study/ work tomorrow.
+
+
+6. I want to speak English tomorrow/ today/ now.
+
+
+7. I want to speak Portuguese now/ today/ tomorrow.
+
+
+8. I want to speak Spanish today/ tomorrow/ now.
+
+
+9. I speak.
+
+
+10. I speak with you/ my family/ father/ mother/ sister/ brother/ friend.
+
+
+11. I speak Portuguese with my brother/ sister/ father/ mother/ family.
+
+
+12. I speak English/ Spanish with my friends.
+
+
+13. I work with you/ my family/ father/ mother/ sister/ brother/ friend.
+
+
+14. I want to work with my family/ now/ today/ tomorrow.
+
+
+15. I want to work with my brother/ now/ today/ tomorrow.
+
+
+16. I want to work with my sister/ now/ today/ tomorrow.
+
+
+17. I study.
+
+
+18. I study with you/ my family/ father/ mother/ sister/ brother/ friend.
+
+
+19. I want to study now/ today/ tomorrow.
+
+
+20. I want to study English with my family/ now.
+
+
+21. I want to study Portuguese with my brother/ today.
+
+
+22. I want to study Spanish with my friend/ tomorrow.
+
+
+23. I want to speak with you now.
+
+
+24. I want to speak with you and my mother tomorrow.
+
+
+25. I want to study with you and my friend today.
+
+
+26. I speak English with you.
+
+
+27. I speak Spanish with my father.
+
+
+28. I speak Portuguese with my sister and my brother.
+
+
+29. I want to work with English/ Spanish/ Portuguese.
+
+
+30. I work with English/ Spanish.
+
+
+31. I want to study English with my friend now.
+
+
+32. I want to study Spanish with my sister today.
+
+
+33. I want to study with my brother tomorrow.
+
+
+34. I want to speak and English.
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+WORDS QUESTIONS
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+
+
+
+
+
+1. Do you want to work/ speak/ study?
+
+
+2. Do you speak Portuguese/ English/ Spanish?
+
+
+3. Do you want to speak English/ Spanish?
+
+
+4. Do you want to study English/ Spanish/ L1 (native language)?
+
+
+5. I want to work, and you?
+
+
+6. Do you want to work now/ today/ tomorrow?
+
+
+7. I want to speak, and you?
+
+
+8. Do you want to speak English now/ today/ tomorrow?
+
+
+9. I want to study, and you?
+
+
+10. Do you want to study Portuguese now/ today/ tomorrow?
+
+
+11. I want to speak Spanish. Do you want to speak Spanish today?
+
+
+12. I want to speak Portuguese. Do you want to speak Portuguese now?
+
+
+13. I speak Portuguese, and you?
+
+
+14. Do you speak Portuguese with your family?
+
+
+15. I speak English with my sister, and you?
+
+
+16. Do you speak Spanish with your friends?
+
+
+17. I work, and you?
+
+
+18. Do you work with your father/ mother/ brother/ friend?
+
+
+19. Do you want to work with your friend today?
+
+
+20. I want to work with my sister tomorrow. And you?
+
+
+21. Do you want to work with your brother now?
+
+
+22. I want to work with my father today. And you?
+
+
+23. Do you study English/ Portuguese/ Spanish?
+
+
+24. I study with my friend, and you?
+
+
+25. Do you want to study today/ tomorrow?
+
+
+26. I want to study English now, and you?
+
+
+27. Do you want to study Spanish with your friend tomorrow?
+
+
+28. Do you want to study Portuguese with your brother now?
+
+
+29. Do you want to study English with your sister today?
+
+
+30. I want to speak English with my friend. And you, do you want to speak English with your friend?
+
+
+31. I want to study Spanish with my brother. And you, do you want to study Spanish with your brother?
+
+
+32. I speak Portuguese with my father. And you, do you speak Portuguese with your father?
+
+
+33. I work with English. And you, do you work with English?
+
+
+34. I want to work with Spanish. And you, do you want to work with Spanish?
+
+
+35. Do you want to study English with your father now?
+
+
+36. Do you want to study Portuguese with your friend tomorrow?
+
+
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+EXPRESSIONS
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+
+1. In the morning
+
+
+2. In the afternoon
+
+
+3. In the evening
+
+
+4. At night
+
+
+5. Hi
+
+
+6. Bye
+
+
+7. Please
+
+
+8. Thank you
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+EXPRESSIONS LSR
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+
+1. In the morning.
+
+
+2. I speak English with my father/ in the morning.
+
+
+3. I study English/ work in the morning.
+
+
+4. In the afternoon.
+
+
+5. I work with my sister/ in the afternoon.
+
+
+6. I study in the afternoon.
+
+
+7. I speak with my mother in the afternoon.
+
+
+8. In the evening.
+
+
+9. I study in the evening.
+
+
+10. I study Spanish with my brother in the evening.
+
+
+11. I speak with my sister in the evening.
+
+
+12. At night.
+
+
+13. I speak Portuguese with my family at night.
+
+
+14. And I want to speak English tomorrow.
+
+
+15. I want to study English/ Spanish/ L1 now.
+
+
+16. I want to work now.
+
+
+17. Please.
+
+
+18.Please, I want to speak with you now.
+
+
+19. Hi, I speak Portuguese and English. And you?
+
+
+20. Hi, I study Spanish. And you?
+
+
+21. Hi, I work with my friend. And you?
+
+
+22. Bye, I want to study English/ now.
+
+
+23. Bye, I want to speak English/ with my friend.
+
+
+24. Thank you.
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+EXPRESSIONS QUESTIONS
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+
+
+
+1. I speak English with my father in the morning. And you?
+
+
+2. Do you study English/ work in the morning?
+
+
+3. Do you speak Spanish with your friend in the morning?
+
+
+4. I work in the afternoon. And you?
+
+
+5. Do you study in the afternoon?
+
+
+6. Do you speak with your mother in the afternoon?
+ 
+
+7. I study in the evening. And you?
+
+
+8. Do you study Spanish in the evening?
+
+
+9. Do you speak with your sister in the evening?
+
+
+10. I speak (L1- native language) at night. And you?
+
+
+11. Do you speak with your family at night?
+
+
+12. Do you speak with your friend at night?
+
+
+13. I want to speak English tomorrow. And you?
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+WRAP UP
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+
+1. Do you want to work now?
+
+
+2. Do you work with your brother in the afternoon?
+
+
+3. Do you study with your friend in the morning?
+
+
+4. Do you want to study English at night?
+
+
+5. Do you study Spanish at night?
+
+
+6. Do you speak English with your sister?
+
+
+7. Do you want to speak English?
+
+
+8. Do you speak Portuguese with your family?
+
+
+9. Do you want to study Spanish tomorrow?
+
+
+10. Do you work at night?
+
+
+11. Do you want to work in the afternoon?
+
+
+12. Do you work with English?

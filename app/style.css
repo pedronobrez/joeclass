@@ -1,0 +1,168 @@
+/* ===============
+        RESET
+   =============== */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+    /* list-style-type: decimal; */
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+
+/* ===============
+      VARIABLES
+   =============== */
+
+ :root {
+    --header-height: 4.5rem;
+    /* colors */
+    --hue: 159;
+    /* HSL color mode */
+    --base-color: hsl(var(--hue) 36% 57%);
+    --base-color-second: hsl(var(--hue) 65% 88%);
+    --base-color-alt: hsl(var(--hue) 57% 53%);
+    --title-color: hsl(var(--hue) 41% 10%);
+    --text-color: hsl(0 0% 46%);
+    --body-color: hsl(0, 0%, 12%);
+    /* fonts */
+    --title-font-size: 1.875rem;
+    --subtitle-font-size: 1rem;
+    --title-font: 'Poppins', sans-serif;
+    --body-font: 'DM Sans', sans-serif;
+}
+
+
+/* GLOBAL */
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font: 400 2rem var(--body-font);
+    color: var(--text-color);
+    background: var(--body-color);
+    -webkit-font-smoothing: antialiased;
+    margin-left: 3rem;
+}
+
+.title {
+    color: white;
+    font: 700 2.5rem var(--title-font);
+    margin-top: 2rem;
+}
+
+.grid {
+    display: grid;
+    gap: 2rem;
+}
+
+a {
+    color: white;
+}
+
+h1 {
+    user-select: none;
+}
+
+h1:hover {
+    cursor: pointer;
+}
+
+ul li {
+    color: white;
+    margin-left: 2rem;
+    padding-bottom: 0.5rem;
+}
+
+
+/* FIRST MENU */
+
+.actions-start {
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+}
+
+.actions-lrs-start {
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+}
+
+.actions-questions-start {
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+}
+
+.words-start {
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+}
+
+.words-lrs-start {
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+}
+
+.words-questions-start {
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+}
+
+.expressions-start {
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+}
+
+.expressions-lrs-start {
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+}
+
+.expressions-questions-start {
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+}
+
+.show {
+    opacity: 1;
+    visibility: visible;
+    position: relative;
+    left: -200px;
+    -webkit-animation: slide 10s forwards;
+    animation: slide 0.7s forwards;
+}
+
+@-webkit-keyframes slide {
+    100% {
+        left: 0;
+    }
+}
+
+@keyframes slide {
+    100% {
+        left: 0;
+    }
+}
