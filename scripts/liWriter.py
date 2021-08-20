@@ -1,1 +1,0 @@
-def hasNumbers(self, inputString): return any(char.isdigit() for char in inputString)
