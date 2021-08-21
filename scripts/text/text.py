@@ -5,6 +5,7 @@ class Code:
 
     def __init__(self, lesson):
         self.lesson = lesson
+        
 
 
     def sorted_alphanumeric(self, data):
