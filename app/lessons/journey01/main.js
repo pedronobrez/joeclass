@@ -16,21 +16,6 @@ function oneItem(category) {
                     categoryList.classList.toggle('show')
                 })
             }
-            const categoryLrsTitle = document.querySelectorAll('h1.' + category + '-LRS-title')
-            const categoryLrsList = document.querySelector('.' + category + '-LRS-start')
-            for (const element of categoryLrsTitle) {
-                element.addEventListener('click', function() {
-                    categoryLrsList.classList.toggle('show')
-                })
-            }
-            const categoryQuestionsTitle = document.querySelectorAll('h1.' + category + '-QUESTIONS-title')
-            const categoryQuestionsList = document.querySelector('.' + category + '-QUESTIONS-start')
-            for (const element of categoryQuestionsTitle) {
-                element.addEventListener('click', function() {
-                    categoryQuestionsList.classList.toggle('show')
-                })
-            }
-
         }showContent('ACTIONS')
 showContent('ACTIONS-LRS')
 showContent('ACTIONS-QUESTIONS')
