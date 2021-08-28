@@ -83,6 +83,11 @@ h1:hover {
     cursor: pointer;
 }
 
+h2 {
+    color: white;
+    margin-top: 20px;
+}
+
 ul li {
     color: white;
     margin-left: 2rem;

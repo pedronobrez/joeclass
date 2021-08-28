@@ -1,6 +1,5 @@
 import os, os.path
 import re
-
 class Code:
 
     def __init__(self, lesson):
@@ -79,7 +78,7 @@ class Code:
 
                 dir = self.sorted_alphanumeric(os.listdir(self.LESSON_ASSETS+elegible_topics[j]+'/'))
                 for k in range(0, len(dir)):
-                    f.write('''<div class="swiper-slide" style="background-image:url('''+self.LESSON_ASSETS+elegible_topics[j]+'/'+dir[k]+''')"></div>''')
+                    f.write('''<div class="swiper-slide" style="background-image:url('''+elegible_topics[j]+'/'+dir[k]+''')"></div>\n''')
 
                 f.write("""
                             </div>
